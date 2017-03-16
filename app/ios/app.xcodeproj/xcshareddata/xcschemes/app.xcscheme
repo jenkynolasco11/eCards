@@ -26,6 +26,7 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
+            <!-- Here, I assume you have to change the file name too -->
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
@@ -68,6 +69,7 @@
          </TestableReference>
       </Testables>
       <MacroExpansion>
+      <!-- Here, I assume you have to change the file name too -->
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
@@ -91,6 +93,7 @@
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
+         <!-- Here, I assume you have to change the file name too -->
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
@@ -110,6 +113,7 @@
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
+         <!-- Here, I assume you have to change the file name too -->
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
