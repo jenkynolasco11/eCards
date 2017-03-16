@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "\"electronic cards\"",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkynolasco11/eCards.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
