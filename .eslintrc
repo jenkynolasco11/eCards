@@ -201,7 +201,7 @@
         ###### POSSIBLE ERRORS
         "no-await-in-loop" : [2],
         "no-cond-assign" : [2, "always"],
-        "no-console" : [1],
+        "no-console" : [1, {allow : ["log","warn"]}],
         "no-constant-condition" : [2],
         "no-control-regex" : [2],
         "no-debugger" : [2],

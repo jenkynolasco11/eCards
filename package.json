@@ -25,5 +25,9 @@
     "koa-router": "next",
     "nodemon": "^1.11.0",
     "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.17.1"
   }
 }
