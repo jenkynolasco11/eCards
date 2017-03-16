@@ -8,7 +8,8 @@
     "url": "git+https://github.com/jenkynolasco11/eCards.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon -exec babel-node app.js -e .js"
   },
   "author": "Jenky Nolasco",
   "license": "ISC",
