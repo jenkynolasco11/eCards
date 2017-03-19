@@ -1,7 +1,7 @@
 {
   "name": "ecards",
   "version": "1.0.0",
-  "description": "\"electronic cards\"",
+  "description": "electronic cards",
   "main": "app.js",
   "repository": {
     "type": "git",
