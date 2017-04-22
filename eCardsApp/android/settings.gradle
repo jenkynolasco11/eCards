@@ -1,0 +1,3 @@
+rootProject.name = 'eCardsApp'
+
+include ':app'
